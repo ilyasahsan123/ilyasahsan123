@@ -17,5 +17,3 @@ Additionally, I have contributed to the following repositories:
 [![All Commits](https://badges.pufler.dev/commits/all/ilyasahsan123?style=social)](https://badges.pufler.dev)
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/ilyasahsan123?style=social)](https://badges.pufler.dev)
 [![Years](https://badges.pufler.dev/years/terrymanu?style=social)](https://badges.pufler.dev)
-
-![Ilyas Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasahsan123&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
