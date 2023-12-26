@@ -1,6 +1,6 @@
 Ilyas Ahsan, Data Engineer.
 
-Currently, actively contributing to the following repositories:
+Currently, actively contributing to PL/SQL parsing tasks in the following repositories:
 
 - [Debezium](https://github.com/debezium/debezium/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
 - [Apache ShardingSphere](https://github.com/apache/shardingsphere/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
