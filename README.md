@@ -8,5 +8,3 @@
 - [Debezium Server](https://github.com/debezium/debezium-server/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
 - [Debezium Operator](https://github.com/debezium/debezium-operator/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
 - [Debezium Example](https://github.com/debezium/debezium-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
-
-Thanks
