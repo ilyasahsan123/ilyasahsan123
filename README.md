@@ -1,5 +1,7 @@
 👋 Hi, I'm Ilyas Ahsan, a passionate Data Engineer.
 
+Email: meilyasahsan@gmail.com
+
 🚀 Here are some of the repositories I've contributed to:
 
 - [Debezium](https://github.com/debezium/debezium/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
