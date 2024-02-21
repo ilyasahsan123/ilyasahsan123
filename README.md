@@ -1,4 +1,4 @@
-👋 Hi, I'm Ilyas Ahsan, a Data Engineer based in Jakarta, Indonesia.
+👋 Hi, I'm Ilyas Ahsan, a Data Engineer.
 
 🚀 Here are some of the repositories I've contributed to:
 
@@ -9,4 +9,3 @@
 - [Debezium Operator](https://github.com/debezium/debezium-operator/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
 - [Debezium Example](https://github.com/debezium/debezium-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Ailyasahsan123)
 
-Reach me via email: meilyasahsan@gmail.com.
