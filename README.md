@@ -1,4 +1,4 @@
-👋 Hi, I'm Ilyas Ahsan, a Data Engineer.
+👋 Hi, I'm Ilyas Ahsan.
 
 🚀 Here are some of the repositories I've contributed to:
 
